@@ -3,7 +3,7 @@ status: postado
 tipo: reels
 agendar_para: 2026-10-03 19:30
 postado_em: 2026-10-03 18:02
-link: # media_id 18114961090820409
+link: https://www.instagram.com/reel/DeC-qKYgb0h/
 ---
 
 ## Legenda
