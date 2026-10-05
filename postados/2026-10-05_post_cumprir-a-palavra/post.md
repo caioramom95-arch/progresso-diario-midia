@@ -1,9 +1,9 @@
 ---
-status: pronto
+status: postado
 tipo: post
 agendar_para: 2026-10-05 12:00
-postado_em:
-link:
+postado_em: 2026-10-05 12:04
+link: # media_id 18040281728642573
 ---
 
 ## Legenda
