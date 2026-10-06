@@ -1,9 +1,9 @@
 ---
-status: pronto
+status: postado
 tipo: reels
 agendar_para: 2026-10-06 09:00
-postado_em:
-link:
+postado_em: 2026-10-06 18:04
+link: https://www.instagram.com/reel/DeJvcmsAIkd/
 ---
 
 ## Legenda
