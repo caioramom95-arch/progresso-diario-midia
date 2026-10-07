@@ -1,9 +1,9 @@
 ---
-status: pronto
+status: postado
 tipo: reels
 agendar_para: 2026-10-06 18:00
-postado_em:
-link:
+postado_em: 2026-10-07 09:04
+link: https://www.instagram.com/reel/DeMURflD_Vd/
 ---
 
 ## Legenda
