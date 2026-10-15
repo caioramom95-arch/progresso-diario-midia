@@ -1,7 +1,7 @@
 ---
 status: pronto
 tipo: post
-agendar_para: 2026-10-15 12:00
+agendar_para: 2026-10-18 12:00
 postado_em:
 link:
 ---

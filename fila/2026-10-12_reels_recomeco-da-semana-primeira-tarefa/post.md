@@ -1,7 +1,7 @@
 ---
 status: pronto
 tipo: reels
-agendar_para: 2026-10-12 09:00
+agendar_para: 2026-10-16 18:00
 postado_em:
 link:
 ---
