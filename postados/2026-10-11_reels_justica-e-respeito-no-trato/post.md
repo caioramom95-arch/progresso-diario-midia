@@ -1,9 +1,9 @@
 ---
-status: pronto
+status: postado
 tipo: reels
 agendar_para: 2026-10-16 09:00
-postado_em:
-link:
+postado_em: 2026-10-16 09:03
+link: # media_id 17912352861508938
 ---
 
 ## Legenda
