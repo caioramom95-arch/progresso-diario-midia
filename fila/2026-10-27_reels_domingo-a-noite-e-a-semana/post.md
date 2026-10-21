@@ -18,7 +18,7 @@ Qual é a sua única coisa desta semana?
 
 Arte: Vincent van Gogh — “A Noite Estrelada” (domínio público)
 
-A mente é o primeiro campo de batalha. Entre nela preparado: Forjado, no link da bio. ⚔️
+Foco no trabalho começa na cabeça. Treine a sua com o Forjado: link na bio.
 
 ## Hashtags
 

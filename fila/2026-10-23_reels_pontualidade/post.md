@@ -18,7 +18,7 @@ Qual compromisso desta semana você vai cumprir com 15 minutos de folga?
 
 Arte: Vincent van Gogh — “A Noite Estrelada” (domínio público)
 
-Se este post te incomodou, é porque você sabe que pode mais. O próximo passo está no link da bio.
+Sem desculpa, sem enrolação. Só prática. Toque no link da bio e conheça o Forjado.
 
 ## Hashtags
 

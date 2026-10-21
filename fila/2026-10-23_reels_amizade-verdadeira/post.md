@@ -18,7 +18,7 @@ Quem foi a última pessoa que te disse uma verdade que você precisava ouvir?
 
 Arte: Vincent van Gogh — “A Noite Estrelada” (domínio público)
 
-Você já sabe o que precisa mudar. Falta o método. Ele está no link da bio.
+Quem domina os próprios impulsos domina o dia. Comece a treinar no link da bio.
 
 ## Hashtags
 

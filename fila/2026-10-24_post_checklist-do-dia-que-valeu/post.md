@@ -16,7 +16,7 @@ Salve e confira antes de dormir. Se faltou um, você sabe por onde começar aman
 
 Dos três itens, qual é o que mais falta na sua semana?
 
-Homem disciplinado é homem livre. Comece a conquistar a sua liberdade: Forjado, link na bio.
+Não espere a próxima segunda. Abra o link da bio e comece agora.
 
 ## Hashtags
 

@@ -16,7 +16,7 @@ Treinar cedo no sábado deixa o resto do dia livre para a família e para o laze
 
 O que você vai fazer neste sábado antes do almoço?
 
-Se este post te incomodou, é porque você sabe que pode mais. O próximo passo está no link da bio.
+Entre ler e agir existe uma decisão. Tome a sua no link da bio.
 
 ## Hashtags
 

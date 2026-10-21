@@ -16,7 +16,7 @@ Força é reconhecer o limite enquanto ele ainda é pequeno e chamar quem entend
 
 Em que área da sua vida você está tentando carregar tudo sozinho?
 
-Homens de valor não esperam motivação: treinam a mente. Comece pelo link na bio.
+Chega de adiar o que você já sabe que precisa fazer. Clique no link da bio.
 
 ## Hashtags
 

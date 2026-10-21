@@ -16,7 +16,7 @@ Escolha hoje duas coisas inegociáveis da sua semana e escreva. Nos dias difíce
 
 Quais são as suas duas coisas inegociáveis?
 
-Toda forja começa no fogo. A sua começa no link da bio.
+Grandes mudanças começam em decisões pequenas e repetidas. Comece pelo link da bio.
 
 ## Hashtags
 

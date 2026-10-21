@@ -18,7 +18,7 @@ O que você vai fazer neste sábado antes de abrir as redes?
 
 Arte: Katsushika Hokusai — “A Grande Onda de Kanagawa” (domínio público)
 
-Pare de consumir motivação. Comece a construir disciplina. Link na bio. ⚔️
+Quem decide hoje não precisa de motivação amanhã. Clique no link da bio.
 
 ## Hashtags
 

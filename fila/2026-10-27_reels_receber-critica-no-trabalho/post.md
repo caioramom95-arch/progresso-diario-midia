@@ -18,7 +18,7 @@ Qual foi a crítica mais útil que você já recebeu, mesmo doendo na hora?
 
 Arte: Vincent van Gogh — “A Noite Estrelada” (domínio público)
 
-Feito para homens que cansaram de ser comuns. Se é você, o Forjado está no link da bio. ⚔️
+No meio do ruído, o homem firme escolhe o que ouvir. Escolha o Forjado: link na bio.
 
 ## Hashtags
 

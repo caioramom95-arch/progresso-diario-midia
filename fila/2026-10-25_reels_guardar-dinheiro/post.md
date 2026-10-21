@@ -18,7 +18,7 @@ Quanto você consegue separar no próximo pagamento, mesmo que seja pouco?
 
 Arte: Katsushika Hokusai — “A Grande Onda de Kanagawa” (domínio público)
 
-Você vai continuar só concordando com posts como este ou vai começar a agir? Link na bio.
+A sua melhor versão não aparece por acaso. Ela é forjada. Clique no link da bio. ⚔️
 
 ## Hashtags
 

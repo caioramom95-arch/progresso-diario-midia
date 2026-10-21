@@ -18,7 +18,7 @@ Qual mensagem você já mandou no calor do momento e gostaria de apagar?
 
 Arte: J. M. W. Turner — “Naufrágio” (domínio público)
 
-Cada dia adiado cobra juros. Pare de pagar: comece hoje pelo link na bio.
+Se você cansou de prometer e não cumprir, o Forjado é para você. Clique no link da bio. ⚔️
 
 ## Hashtags
 

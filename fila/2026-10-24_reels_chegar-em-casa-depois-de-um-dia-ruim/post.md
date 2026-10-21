@@ -18,7 +18,7 @@ Quem em casa merece receber o seu melhor humor hoje?
 
 Arte: Vincent van Gogh — “A Noite Estrelada” (domínio público)
 
-Ninguém vai fazer esse trabalho por você. Mas você não precisa fazê-lo sozinho: Forjado, link na bio.
+Sua família enxerga a sua constância. Comece a construí-la no link da bio.
 
 ## Hashtags
 

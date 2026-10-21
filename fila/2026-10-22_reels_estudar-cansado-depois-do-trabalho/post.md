@@ -18,7 +18,7 @@ Que matéria ou curso você vai encarar hoje à noite por 25 minutos?
 
 Arte: J. M. W. Turner — “Naufrágio” (domínio público)
 
-Você vai continuar só concordando com posts como este ou vai começar a agir? Link na bio.
+Disciplina é o que você faz sem plateia. Treine isso no Forjado: link na bio.
 
 ## Hashtags
 

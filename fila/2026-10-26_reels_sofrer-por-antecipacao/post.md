@@ -20,7 +20,7 @@ Citação: Sêneca, Cartas a Lucílio, carta 13, §4 (tradução livre do origin
 
 Arte: Edvard Munch — “O Grito” (domínio público)
 
-O conforto te trouxe até aqui. Ele não vai te levar adiante. Link na bio.
+Sem pressa, mas sem pausa. Entre no Forjado pelo link da bio.
 
 ## Hashtags
 

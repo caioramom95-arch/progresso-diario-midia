@@ -16,7 +16,7 @@ Decidir antes muda tudo: você aproveita sem culpa, porque o gasto já estava es
 
 Quanto você costuma gastar num fim de semana sem perceber?
 
-Quem depende de você merece a sua melhor versão. Comece a forjá-la no link da bio.
+Não existe atalho. Existe método. Conheça o do Forjado no link da bio.
 
 ## Hashtags
 

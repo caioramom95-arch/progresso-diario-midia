@@ -18,7 +18,7 @@ Qual pedido de desculpas você ainda está devendo a alguém?
 
 Arte: Edvard Munch — “O Grito” (domínio público)
 
-Toda forja começa no fogo. A sua começa no link da bio.
+O homem de amanhã começa a ser forjado hoje. Clique no link da bio.
 
 ## Hashtags
 

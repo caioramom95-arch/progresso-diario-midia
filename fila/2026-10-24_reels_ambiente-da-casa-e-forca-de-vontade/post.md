@@ -18,7 +18,7 @@ Qual objeto da sua casa você vai tirar do caminho ainda hoje?
 
 Arte: Edvard Munch — “O Grito” (domínio público)
 
-Daqui a um ano você vai agradecer pelo que começar hoje. O Forjado está no link da bio.
+Mente forte não é dom, é treino diário. Comece o seu no link da bio.
 
 ## Hashtags
 

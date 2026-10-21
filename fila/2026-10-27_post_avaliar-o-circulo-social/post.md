@@ -16,7 +16,7 @@ Salve e responda com sinceridade, pensando nas cinco pessoas com quem você mais
 
 Quem do seu círculo responderia sim às três perguntas?
 
-Homem disciplinado é homem livre. Comece a conquistar a sua liberdade: Forjado, link na bio.
+Você já entendeu a ideia. Agora é a sua vez de aplicar: Forjado, link na bio.
 
 ## Hashtags
 

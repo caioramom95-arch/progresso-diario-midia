@@ -16,7 +16,7 @@ Escreva o ponto em uma frase. Na primeira pausa, leia. Não precisa ser brilhant
 
 Qual ideia sua ficou presa em reunião nos últimos meses?
 
-Ler isso é fácil. Viver isso exige treino. O Forjado é esse treino: link na bio. ⚔️
+Constância vence intensidade. Construa a sua: clique no link da bio.
 
 ## Hashtags
 

@@ -18,7 +18,7 @@ Que horas você vai deitar hoje?
 
 Arte: Vincent van Gogh — “A Noite Estrelada” (domínio público)
 
-Disciplina não cai do céu: é forjada, dia após dia. Conheça o Forjado no link da bio.
+Toque no link da bio e dê o primeiro passo de verdade com o Forjado.
 
 ## Hashtags
 

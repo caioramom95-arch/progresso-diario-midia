@@ -18,7 +18,7 @@ A que horas o seu trabalho termina de verdade?
 
 Arte: Edvard Munch — “O Grito” (domínio público)
 
-Estoicismo não é para ler, é para aplicar. Aplique com o Forjado: link na bio.
+Homem de palavra treina a própria palavra. Conheça o Forjado no link da bio.
 
 ## Hashtags
 

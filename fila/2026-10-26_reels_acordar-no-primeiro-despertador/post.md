@@ -18,7 +18,7 @@ Quantas vezes você apertou soneca esta semana?
 
 Arte: J. M. W. Turner — “Naufrágio” (domínio público)
 
-Ler isso é fácil. Viver isso exige treino. O Forjado é esse treino: link na bio. ⚔️
+O próximo passo é um clique: Forjado, link na bio.
 
 ## Hashtags
 

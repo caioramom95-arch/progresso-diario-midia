@@ -18,7 +18,7 @@ Qual projeto parado você vai escolher para terminar primeiro?
 
 Arte: J. M. W. Turner — “Naufrágio” (domínio público)
 
-Você já sabe o que precisa mudar. Falta o método. Ele está no link da bio.
+Você cuida do corpo. E a mente, quem treina? Conheça o Forjado no link da bio.
 
 ## Hashtags
 

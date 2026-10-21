@@ -18,7 +18,7 @@ Como você costuma usar o tempo do trajeto até o trabalho?
 
 Arte: Vincent van Gogh — “A Noite Estrelada” (domínio público)
 
-Se você sente que está desperdiçando o seu potencial, o Forjado foi feito para você. Link na bio.
+Abra o link da bio agora e veja o que o Forjado tem para você. 👇
 
 ## Hashtags
 

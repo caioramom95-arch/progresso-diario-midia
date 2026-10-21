@@ -18,7 +18,7 @@ Qual seria o seu treino de 20 minutos para os dias corridos?
 
 Arte: Vincent van Gogh — “A Noite Estrelada” (domínio público)
 
-Quem espera o momento certo continua esperando. Quem se forja cria o momento. Link na bio.
+Seu primeiro passo cabe em um toque: abra o link da bio e comece o Forjado.
 
 ## Hashtags
 

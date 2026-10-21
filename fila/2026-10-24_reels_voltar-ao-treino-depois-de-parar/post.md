@@ -18,7 +18,7 @@ Quais três dias da semana vão ser do seu treino a partir de agora?
 
 Arte: Katsushika Hokusai — “A Grande Onda de Kanagawa” (domínio público)
 
-Chega de recomeçar toda segunda-feira. Forje a constância que você nunca teve: link na bio.
+Rotina forte é a base de uma vida forte. Monte a sua com o Forjado: link na bio.
 
 ## Hashtags
 
