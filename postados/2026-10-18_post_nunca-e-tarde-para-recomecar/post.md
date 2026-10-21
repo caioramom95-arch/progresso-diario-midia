@@ -1,10 +1,9 @@
 ---
-status: publicando
+status: postado
 tipo: post
 agendar_para: 2026-10-21 12:00
-postado_em:
-link:
-tentativa_em: 2026-10-21 12:10
+postado_em: 2026-10-21 18:08
+link: https://www.instagram.com/p/DewsuXXAnFX/ # media_id 18342695068256936
 ---
 
 ## Legenda
