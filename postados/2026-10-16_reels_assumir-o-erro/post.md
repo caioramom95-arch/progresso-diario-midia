@@ -1,10 +1,9 @@
 ---
-status: publicando
+status: postado
 tipo: reels
 agendar_para: 2026-10-20 09:00
-postado_em:
-link:
-tentativa_em: 2026-10-21 12:12
+postado_em: 2026-10-21 18:08
+link: https://www.instagram.com/reel/DewYZKUjgGB/ # media_id 18117508994329009
 ---
 
 ## Legenda
