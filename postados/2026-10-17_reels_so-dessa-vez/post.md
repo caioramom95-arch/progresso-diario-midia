@@ -1,10 +1,9 @@
 ---
-status: publicando
+status: postado
 tipo: reels
 agendar_para: 2026-10-21 09:00
-postado_em:
-link:
-tentativa_em: 2026-10-22 12:12
+postado_em: 2026-10-22 09:13
+link: # media_id 17921272755452451 (publicado de novo por engano às 12:14, media_id 18131673301814991: apagar o duplicado no Instagram)
 ---
 
 ## Legenda
