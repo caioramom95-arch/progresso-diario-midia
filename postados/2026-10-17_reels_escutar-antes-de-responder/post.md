@@ -1,10 +1,9 @@
 ---
-status: publicando
+status: postado
 tipo: reels
 agendar_para: 2026-10-20 18:00
-postado_em:
-link:
-tentativa_em: 2026-10-21 18:10
+postado_em: 2026-10-21 18:11
+link: https://www.instagram.com/reel/DexV4kuignl/ # media_id 18098206520111848
 ---
 
 ## Legenda
