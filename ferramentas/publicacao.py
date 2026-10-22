@@ -158,8 +158,7 @@ def cmd_liberar(nome: str) -> int:
     if campo(texto, "status") != "publicando":
         print(f"NADA A LIBERAR: {nome} esta com status {campo(texto, 'status')!r}")
         return 0
-    (d / "post.md").write_text(trocar_frontmatter(texto, status="pronto", tentativa_em=None), encoding="utf-8", newline="
-")
+    (d / "post.md").write_text(trocar_frontmatter(texto, status="pronto", tentativa_em=None), encoding="utf-8", newline="\n")
     git("add", str((d / "post.md").relative_to(RAIZ)))
     print("OK liberado (voltou para pronto)")
     return 0
