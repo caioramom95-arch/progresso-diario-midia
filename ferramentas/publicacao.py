@@ -2,11 +2,14 @@
 """Regras de fila do @progressodiario_br, em codigo (para a rotina nao depender de interpretacao).
 
 Uso (a partir da raiz do repositorio):
-  python3 ferramentas/publicacao.py proximo reels|post [--ig arquivo.json]
+  python3 ferramentas/publicacao.py proximo reels|post [--versiculo] [--ig arquivo.json]
   python3 ferramentas/publicacao.py marcar <pasta>
   python3 ferramentas/publicacao.py registrar <pasta> --media-id ID | --timeout
   python3 ferramentas/publicacao.py liberar <pasta>        (so para ERRO EXPLICITO que nao seja timeout)
   python3 ferramentas/publicacao.py pendencias [--ig arquivo.json]
+
+Versiculo: pasta com `formato: versiculo` e o Reel das 12:00. `proximo reels --versiculo` so escolhe essas;
+`proximo reels` (sem a opcao) NUNCA escolhe uma delas.
 
 Garantias:
   * uma pasta so e escolhida se o comeco da legenda (80 caracteres) NAO existir em postados/,
@@ -106,7 +109,7 @@ def mover_para_postados(pasta: Path, **mudancas: str | None) -> Path:
     return destino
 
 
-def cmd_proximo(tipo: str, ig: str | None) -> int:
+def cmd_proximo(tipo: str, ig: str | None, versiculo: bool = False) -> int:
     tipo_post = {"reels": "reels", "reel": "reels", "post": "post", "foto": "post"}[tipo]
     usados = usados_repo() | usados_ig(ig)
     vistos: dict[str, str] = {}
@@ -122,7 +125,8 @@ def cmd_proximo(tipo: str, ig: str | None) -> int:
             print(f"DUPLICADO ignorado: {d.name} ({motivo})", file=sys.stderr)
             continue
         vistos[imp] = d.name
-        if campo(texto, "tipo") == tipo_post and any((d / m).exists() for m in MIDIAS):
+        e_versiculo = campo(texto, "formato") == "versiculo"
+        if campo(texto, "tipo") == tipo_post and e_versiculo == versiculo and any((d / m).exists() for m in MIDIAS):
             candidatos.append(d)
     print(candidatos[0].name if candidatos else "NENHUM")
     return 0
@@ -188,13 +192,14 @@ def main() -> int:
     p = argparse.ArgumentParser()
     s = p.add_subparsers(dest="cmd", required=True)
     a = s.add_parser("proximo"); a.add_argument("tipo", choices=["reels", "reel", "post", "foto"]); a.add_argument("--ig")
+    a.add_argument("--versiculo", action="store_true", help="so Reels de versiculo (rodada das 12:00)")
     s.add_parser("marcar").add_argument("pasta")
     r = s.add_parser("registrar"); r.add_argument("pasta"); r.add_argument("--media-id"); r.add_argument("--timeout", action="store_true")
     q = s.add_parser("pendencias"); q.add_argument("--ig")
     s.add_parser("liberar").add_argument("pasta")
     args = p.parse_args()
     if args.cmd == "proximo":
-        return cmd_proximo(args.tipo, args.ig)
+        return cmd_proximo(args.tipo, args.ig, args.versiculo)
     if args.cmd == "marcar":
         return cmd_marcar(args.pasta)
     if args.cmd == "registrar":
