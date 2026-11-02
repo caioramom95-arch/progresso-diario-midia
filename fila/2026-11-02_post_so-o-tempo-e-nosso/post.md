@@ -1,9 +1,10 @@
 ---
-status: pronto
+status: publicando
 tipo: post
 agendar_para: 2026-11-02 12:00
 postado_em:
 link:
+tentativa_em: 2026-11-02 13:10
 ---
 
 ## Legenda
