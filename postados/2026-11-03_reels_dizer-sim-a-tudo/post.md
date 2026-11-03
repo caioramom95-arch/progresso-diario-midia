@@ -1,10 +1,9 @@
 ---
-status: publicando
+status: postado
 tipo: reels
 agendar_para: 2026-11-03 18:00
-postado_em:
-link:
-tentativa_em: 2026-11-03 18:14
+postado_em: 2026-11-03 18:16
+link: # media_id desconhecido (timeout do Windsor)
 ---
 
 ## Legenda
