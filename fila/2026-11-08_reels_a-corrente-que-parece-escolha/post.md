@@ -1,9 +1,10 @@
 ---
-status: pronto
+status: publicando
 tipo: reels
 agendar_para: 2026-11-08 12:00
 postado_em:
 link:
+tentativa_em: 2026-11-08 12:09
 formato: versiculo
 ---
 
