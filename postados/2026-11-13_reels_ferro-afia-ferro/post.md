@@ -1,10 +1,9 @@
 ---
-status: publicando
+status: postado
 tipo: reels
 agendar_para: 2026-11-13 12:00
-postado_em:
-link:
-tentativa_em: 2026-11-13 13:02
+postado_em: 2026-11-13 13:02
+link: # media_id 18026085479954645
 formato: versiculo
 ---
 
