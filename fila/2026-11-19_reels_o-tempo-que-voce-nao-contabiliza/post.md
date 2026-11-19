@@ -1,9 +1,10 @@
 ---
-status: pronto
+status: publicando
 tipo: reels
 agendar_para: 2026-11-19 18:00
 postado_em:
 link:
+tentativa_em: 2026-11-19 18:10
 ---
 
 ## Legenda
