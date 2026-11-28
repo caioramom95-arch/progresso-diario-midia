@@ -1,10 +1,9 @@
 ---
-status: publicando
+status: postado
 tipo: post
 agendar_para: 2026-11-28 12:00
-postado_em:
-link:
-tentativa_em: 2026-11-28 12:08
+postado_em: 2026-11-28 12:09
+link: # media_id 18611928538067756
 ---
 
 ## Legenda
